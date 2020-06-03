@@ -32,3 +32,6 @@ CMP_FMT : '.tar.bz2'
 OVERWRITE_INTERIM_GAZE : False
 STACK_SIZE : 4
 BATCH_SIZE : 32
+
+# Path
+game_data: 'data/external/'
